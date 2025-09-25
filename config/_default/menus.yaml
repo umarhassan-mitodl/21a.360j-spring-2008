@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 520bf4dd-2995-c33c-a494-873c2920c91f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: c7a28f8b-4d01-0dc5-d136-cf89051b1d0b
+  name: Listening, Readings and Films
+  pageRef: /pages/listening-readings-and-films
+  weight: 20
+- identifier: d6c90c72-1fe2-1d60-02db-d830d5bf4577
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
