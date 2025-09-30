@@ -5,6 +5,8 @@ description: 'Example of a student paper on reconstructing a possible history of
 file: /courses/21a-360j-the-anthropology-of-sound-spring-2008/7b1036ee9a34a08af22bf95a853c0d40_shera_siren.pdf
 file_size: 301635
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
