@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on course meeting times, required books, requirements, grading policy, and the schedule
   of lecture topics, guests, and key dates for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -205,7 +203,7 @@ Soundscapes, revisited through sound sculpture
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Beth Coleman](http://cms.mit.edu/people/bcoleman/), Comparative Media Studies, MIT
+{{% resource_link "8067e80b-9f40-44d8-b8e2-f559fe29026f" "Beth Coleman" %}}, Comparative Media Studies, MIT
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -235,7 +233,7 @@ Kieran Downes, History, Anthropology, and Science, Technology, and Society, MIT
 Sound, culture, property
 {{< tdclose >}}
 {{< tdopen >}}
-[Ian Condry](https://anthropology.mit.edu/people/faculty/ian-condry), Foreign Languages and Literatures, MIT
+{{% resource_link "58a55da0-c4c7-44b9-9a0e-9950a22db213" "Ian Condry" %}}, Foreign Languages and Literatures, MIT
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -250,7 +248,7 @@ Sound, culture, property
 A political economy of sound and noise
 {{< tdclose >}}
 {{< tdopen >}}
-[Andres Lombana](http://www.andreslombana.net/), Comparative Media Studies, MIT
+{{% resource_link "bf9adce9-39ed-4a71-bfb0-b110ea25607b" "Andres Lombana" %}}, Comparative Media Studies, MIT
 {{< tdclose >}}
 {{< tdopen >}}
  
